@@ -2,11 +2,9 @@
 title: /
 layout: home
 permalink: /
----
 title: /iam
 layout: about
 permalink: /
----
 title: /blog
 layout: blog
 permalink: /
