@@ -1,21 +1,17 @@
 ---
-title: 한글테스트
+title: /
 layout: home
 permalink: /
 ---
-
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-- bullet
-  - subbullet
-1. number
-  1. subnumber
-  2. two
-
+title: /iam
+layout: about
+permalink: /
+---
+title: /blog
+layout: blog
+permalink: /
 ---
 
-plain text
+### hello
+data nerd here
+안녕
