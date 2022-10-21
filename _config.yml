@@ -20,7 +20,7 @@ url: "https://mondayghost.github.io"
 
 header_pages:
   - index.md
-  - about.md
+  - test.md
 
 style: light
 
