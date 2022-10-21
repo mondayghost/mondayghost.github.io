@@ -16,6 +16,9 @@ plugins:
   - jekyll-seo-tag
 #--------------------------------------------------------------------#
 
+title: 'this is a test'
+description: "description test bla bla bla"
+# baseurl: "/"
 url: "https://mondayghost.github.io"
 
 header_pages:
